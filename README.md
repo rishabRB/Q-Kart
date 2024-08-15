@@ -94,9 +94,9 @@ Don't forget to give the project a star! <img src="https://res.cloudinary.com/dv
 <!-- CONTACT -->
 ## Contact
 
-Krishna - [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
+Rishab - [@Whatsapp](https://wa.me/+919304915269) - bibhuty82@gmail.com
 
-Project Link: [https://github.com/Krishna11118/Trekki.git](https://github.com/Krishna11118/Q-Kart)
+Project Link: [https://github.com/rishabRB/Q-Kart](https://github.com/rishabRB/Q-Kart)
 
 
 
