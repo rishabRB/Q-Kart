@@ -11,7 +11,7 @@
 **QKart**, your go-to online marketplace, provides a seamless shopping experience. With a user-friendly interface and a diverse range of products, QKart ensures secure transactions and responsive customer support. Explore our platform for convenient shopping, exclusive deals, and a commitment to your satisfaction.
 <br>
 <div align="start" style="margin-bottom: 50px;">
-    👉 Live Demo: <a href='q-trips-r6w3.vercel.app'>Live Demo</a>
+    👉 Live Demo: <a href='https://q-trips-r6w3.vercel.app'>Live Demo</a>
 </div>
 <br>
 
